@@ -1,4 +1,40 @@
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #227C9D;
+  background-color: #C6DEA6;
+}
+
+#header {
+  text-align: center;
+  text-decoration: underline;
+}
+
+img {
+  display: block;
+  width: 50%;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  border: black solid 3px;
+}
+
+.info {
+  text-align: center;
+}
+
+.typesoftea {
+  text-align: center;
+}
+
+.culture {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+p {
+  width: 65%;
+  margin: auto;
+  padding-bottom: 20px;
 }
